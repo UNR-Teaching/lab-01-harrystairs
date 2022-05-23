@@ -1,1 +1,3 @@
-1. 
+Question 3 Answer: The file 'newfile.txt' was added to the directory. The command '>' must have added it to the directory when combined with the 'ls' command.
+Question 5 Answer: The 'git status' command tells me that newfile.txt is tracked, but it is not committed yet.
+Question 6 Answer: The 'git diff' command tells me that there are 2 versions of newfile.txt. It also tells me that the difference between version 1 and 2 is the addition of the line 'This is my file listing' at the top.
